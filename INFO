@@ -1,8 +1,8 @@
 {
-"name": "Ulozto.cz",
-"hostprefix": "ulozto.cz",
-"displayname": "Ulozto.cz",
-"version": "0.33",
+"name": "Uloz.to",
+"hostprefix": "uloz.to",
+"displayname": "Uloz.to",
+"version": "0.34",
 "authentication": "yes",
 "module": "ulozto.php",
 "class": "SynoFileHostingUlozto",
